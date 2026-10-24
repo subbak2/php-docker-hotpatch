@@ -75,7 +75,7 @@ A patched PHP is the fix. Until it is deployed, the usual stopgaps are a WAF rul
 
 ## Real-world use
 
-Written after patching a production WordPress site during PHP2Shell: PHP 8.3.36 was out at 23:00 KST, the official `wordpress:php8.3-apache` was still on 8.3.35, and the hotpatched image was in production 91 minutes later. This script is that procedure, generalized.
+Written after patching a production WordPress site during PHP2Shell: PHP 8.3.36 was out at 23:00 KST, the official `wordpress:php8.3-apache` was still on 8.3.35, and the hotpatched image was in production 91 minutes later. This script is that procedure, generalized. The full story (in Korean): [PHP2Shell 새벽 대응기](https://subbak2.tistory.com/217).
 
 ## Limitations
 
